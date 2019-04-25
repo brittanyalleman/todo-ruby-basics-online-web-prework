@@ -1,25 +1,23 @@
-def division
+def 
   12/2
-
-
 end
 
-def assign_variable(value)
-x=3
+def 
+x= bob
 end
 
-def argue
+def 
   add_two(number)
   number + 2
 
 end
 
-def greeting
-
+def 
+  puts"hello World!"
 end
 
-def return_a_value
-
+def 
+  3.times{print"hello!"}
 end
 
 def last_evaluated_value
