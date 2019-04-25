@@ -5,10 +5,12 @@ def division
 end
 
 def assign_variable(value)
-
+x=3
 end
 
 def argue
+  add_two(number)
+  number + 2
 
 end
 
