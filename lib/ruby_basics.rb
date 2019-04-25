@@ -1,5 +1,4 @@
-def
-  12/2
+def 12/2
 end
 
 def
@@ -20,7 +19,9 @@ def
   3.times{print"hello!"}
 end
 
-def last_evaluated_value
+def
+  Fave_pizza
+  puts "cheese"
 
 
 end
