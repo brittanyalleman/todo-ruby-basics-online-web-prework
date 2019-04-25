@@ -1,5 +1,5 @@
-def 12/2
-end
+12/2
+
 
 def
 x= bob
