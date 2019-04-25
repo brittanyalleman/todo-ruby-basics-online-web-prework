@@ -1,18 +1,18 @@
-def 
+def
   12/2
 end
 
-def 
+def
 x= bob
 end
 
-def 
+def
   add_two(number)
   number + 2
 
 end
 
-def 
+def
   puts"hello World!"
 end
 
