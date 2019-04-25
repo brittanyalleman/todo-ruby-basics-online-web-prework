@@ -1,4 +1,5 @@
-def division(12, 2)
+def division
+  12/2
 
 
 end
